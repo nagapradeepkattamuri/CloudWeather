@@ -19,7 +19,7 @@ Users can search for any city to get the current weather information. And the ba
 
 - **HTML**
 - **CSS**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **OpenWeatherMap API**
 
 ---
